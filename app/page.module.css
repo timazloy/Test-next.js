@@ -1,0 +1,20 @@
+.item {
+    border: 1px solid #4f00ff;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.title_item {
+    margin-bottom: 5px;
+}
+
+.text {
+    margin-bottom: 15px;
+}

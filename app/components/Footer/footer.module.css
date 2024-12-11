@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+    margin-bottom: 25px;
+}
+
+.copyright {
+    margin-top: 10px;
+}
+
+.list {
+    margin-left: 17px;
+}
